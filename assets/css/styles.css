@@ -1,0 +1,12 @@
+.jumboheading {
+  padding-top: 60px;
+  font-size: xx-large;
+}
+
+@media (min-width: 768px) {
+  .text-center {
+    padding-right: 20%;
+    padding-left: 20%;
+  }
+}
+
